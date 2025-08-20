@@ -25,11 +25,11 @@ This repository provides additional evaluation results for our study on complex-
 
 ## 🔍 Results
 
-The training dynamics of the regressors are visualized as an animation:
+The training dynamics of the regressors are visualized as an animation (left: complex-valued autoencoder; right: classic autoencoder):
 
 <p align="center">
-  <img src="autoencoder_downstream.gif" width="600" height="600" alt="til">
-  <img src="complex_autoencoder_downstream.gif" width="600" height="600" alt="til">
+  <img src="complex_autoencoder_downstream.gif" width="400" height="400" alt="til">
+  <img src="autoencoder_downstream.gif" width="400" height="400" alt="til">
 </p>
 
 ---
